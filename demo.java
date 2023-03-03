@@ -1,5 +1,9 @@
-hari
-kiran
-lover
-jaffa
+class {
+
+     hari
+   kiran
+  lover
+ jaffa
 mari
+ 
+  }<< main
